@@ -17,13 +17,13 @@
         "Bulgaria": "Bulgaria",
         "Burkina Faso": "Burkina Faso",
         "Burundi": "Burundi",
-        "CSV (.csv)": "CSV (.csv)",
         "Chad": "Chad",
         "Chile": "Chile",
         "China": "China",
         "Colombia": "Colombia",
         "Congo": "Congo",
         "Costa Rica": "Costa Rica",
+        "CSV (.csv)": "CSV (.csv)",
         "Cuba": "Cuba",
         "Dominica": "Dominica",
         "Ecuador": "Ecuador",
@@ -97,6 +97,7 @@
         "Tokelau": "Tokelau",
         "Tonga": "Tonga",
         "Total": "Total",
+        "total": "total",
         "Total:": "Total:",
         "Tuvalu": "Tuvalu",
         "Uganda": "Uganda",
@@ -105,7 +106,6 @@
         "Venezuela": "Venezuela",
         "Yemen": "Yemen",
         "Zambia": "Zambia",
-        "Zimbabwe": "Zimbabwe",
-        "total": "total"
+        "Zimbabwe": "Zimbabwe"
     }
 }

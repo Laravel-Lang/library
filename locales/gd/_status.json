@@ -55,6 +55,7 @@
         "Delete team": "Delete team",
         "Djibouti": "Djibouti",
         "Dominica": "Dominica",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Ecuador": "Ecuador",
         "Edit :name": "Edit :name",
         "Edit team": "Edit team",
@@ -236,7 +237,6 @@
         "You left the team \":name\"": "You left the team \":name\"",
         "You've been invited to join :teamName": "You've been invited to join :teamName",
         "Zambia": "Zambia",
-        "Zimbabwe": "Zimbabwe",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone"
+        "Zimbabwe": "Zimbabwe"
     }
 }

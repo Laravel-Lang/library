@@ -42,6 +42,7 @@
         "Côte d'Ivoire": "Côte d'Ivoire",
         "Decline": "Decline",
         "Delete team": "Delete team",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate codes above.": "Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate codes above.",
         "Ecuador": "Ecuador",
         "Edit :name": "Edit :name",
@@ -119,8 +120,8 @@
         "Mozambique": "Mozambique",
         "Namibia": "Namibia",
         "Nauru": "Nauru",
-        "New Zealand": "New Zealand",
         "New team": "New team",
+        "New Zealand": "New Zealand",
         "Nicaragua": "Nicaragua",
         "Nigeria": "Nigeria",
         "No passkeys yet": "No passkeys yet",
@@ -219,7 +220,6 @@
         "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
         "You've been invited to join :teamName": "You've been invited to join :teamName",
         "Zambia": "Zambia",
-        "Zimbabwe": "Zimbabwe",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone"
+        "Zimbabwe": "Zimbabwe"
     }
 }

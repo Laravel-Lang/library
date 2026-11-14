@@ -34,7 +34,6 @@
         "Bulgaria": "Bulgaria",
         "Burkina Faso": "Burkina Faso",
         "Burundi": "Burundi",
-        "CSV (.csv)": "CSV (.csv)",
         "Cancel invitation": "Cancel invitation",
         "Chile": "Chile",
         "Confirm with passkey": "Confirm with passkey",
@@ -42,9 +41,11 @@
         "Costa Rica": "Costa Rica",
         "Create a new team": "Create a new team",
         "Create team": "Create team",
+        "CSV (.csv)": "CSV (.csv)",
         "Decline": "Decline",
         "Delete team": "Delete team",
         "Djibouti": "Djibouti",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Ecuador": "Ecuador",
         "Edit :name": "Edit :name",
         "Edit team": "Edit team",
@@ -167,6 +168,7 @@
         "Slovenia": "Slovenia",
         "Somalia": "Somalia",
         "Sri Lanka": "Sri Lanka",
+        "status": "status",
         "Sudan": "Sudan",
         "Suriname": "Suriname",
         "Taiwan": "Taiwan",
@@ -210,8 +212,6 @@
         "You don't belong to any teams yet.": "You don't belong to any teams yet.",
         "You left the team \":name\"": "You left the team \":name\"",
         "You've been invited to join :teamName": "You've been invited to join :teamName",
-        "Zimbabwe": "Zimbabwe",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
-        "status": "status"
+        "Zimbabwe": "Zimbabwe"
     }
 }

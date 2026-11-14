@@ -10,10 +10,11 @@
         "Are you sure you want to leave :name?": "Are you sure you want to leave :name?",
         "Are you sure you want to remove the passkey \":name\"? You will no longer be able to use it to sign in.": "Are you sure you want to remove the passkey \":name\"? You will no longer be able to use it to sign in.",
         "Authenticating...": "Authenticating...",
-        "CSV (.csv)": "CSV (.csv)",
         "Confirm with passkey": "Confirm with passkey",
         "Confirming...": "Confirming...",
+        "CSV (.csv)": "CSV (.csv)",
         "Decline": "Decline",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Excel (.xlsx)": "Excel (.xlsx)",
         "Give this passkey a name to help you identify it later.": "Give this passkey a name to help you identify it later.",
         "ID": "ID",
@@ -35,7 +36,6 @@
         "Registering...": "Registering...",
         "Remove passkey": "Remove passkey",
         "Sign in with a passkey": "Sign in with a passkey",
-        "You left the team \":name\"": "You left the team \":name\"",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone"
+        "You left the team \":name\"": "You left the team \":name\""
     }
 }

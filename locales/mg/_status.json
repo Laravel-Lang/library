@@ -3,7 +3,6 @@
         ":action to join the \":team\" team.": ":action to join the \":team\" team.",
         ":inviter invited you to join this team.": ":inviter invited you to join this team.",
         ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
-        "API Token": "API Token",
         "Accept": "Accept",
         "Accept or decline the teams you have been invited to join.": "Accept or decline the teams you have been invited to join.",
         "Add a passkey to sign in without a password": "Add a passkey to sign in without a password",
@@ -15,6 +14,7 @@
         "Angola": "Angola",
         "Anguilla": "Anguilla",
         "Antarctica": "Antarctica",
+        "API Token": "API Token",
         "Are you sure you want to cancel the invitation for :email?": "Are you sure you want to cancel the invitation for :email?",
         "Are you sure you want to leave :name?": "Are you sure you want to leave :name?",
         "Are you sure you want to remove :name from this team?": "Are you sure you want to remove :name from this team?",
@@ -28,7 +28,6 @@
         "Bolivia": "Bolivia",
         "Brunei Darussalam": "Brunei Darussalam",
         "Burkina Faso": "Burkina Faso",
-        "CSV (.csv)": "CSV (.csv)",
         "Cancel invitation": "Cancel invitation",
         "Cape Verde": "Cape Verde",
         "Confirm with passkey": "Confirm with passkey",
@@ -37,6 +36,7 @@
         "Costa Rica": "Costa Rica",
         "Create a new team": "Create a new team",
         "Create team": "Create team",
+        "CSV (.csv)": "CSV (.csv)",
         "Curaçao": "Curaçao",
         "Côte d'Ivoire": "Côte d'Ivoire",
         "Decline": "Decline",
@@ -44,6 +44,7 @@
         "Djibouti": "Djibouti",
         "Dominica": "Dominica",
         "E-mail": "E-mail",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Edit :name": "Edit :name",
         "Edit team": "Edit team",
         "El Salvador": "El Salvador",
@@ -82,8 +83,8 @@
         "Liberia": "Liberia",
         "Liechtenstein": "Liechtenstein",
         "Loading": "Loading",
-        "Log Viewer": "Log Viewer",
         "Log in and visit your dashboard to accept or decline this invitation.": "Log in and visit your dashboard to accept or decline this invitation.",
+        "Log Viewer": "Log Viewer",
         "Luxembourg": "Luxembourg",
         "Macao": "Macao",
         "Malawi": "Malawi",
@@ -201,7 +202,6 @@
         "You left the team \":name\"": "You left the team \":name\"",
         "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
         "You've been invited to join :teamName": "You've been invited to join :teamName",
-        "Zambia": "Zambia",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone"
+        "Zambia": "Zambia"
     }
 }

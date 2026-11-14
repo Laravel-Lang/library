@@ -26,15 +26,16 @@
         "Bermuda": "Bermuda",
         "Botswana": "Botswana",
         "Burkina Faso": "Burkina Faso",
-        "CSV (.csv)": "CSV (.csv)",
         "Cancel invitation": "Cancel invitation",
         "Confirm with passkey": "Confirm with passkey",
         "Confirming...": "Confirming...",
         "Create a new team": "Create a new team",
         "Create team": "Create team",
+        "CSV (.csv)": "CSV (.csv)",
         "Curaçao": "Curaçao",
         "Decline": "Decline",
         "Delete team": "Delete team",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate codes above.": "Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate codes above.",
         "Edit :name": "Edit :name",
         "Edit team": "Edit team",
@@ -132,6 +133,7 @@
         "This invitation was sent to a different email address.": "This invitation was sent to a different email address.",
         "This team name is reserved and cannot be used.": "This team name is reserved and cannot be used.",
         "This user is already a member of the team.": "This user is already a member of the team.",
+        "to": "to",
         "Togo": "Togo",
         "Tokelau": "Tokelau",
         "Two-factor authentication": "Two-factor authentication",
@@ -153,8 +155,6 @@
         "You left the team \":name\"": "You left the team \":name\"",
         "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
         "You've been invited to join :teamName": "You've been invited to join :teamName",
-        "Zimbabwe": "Zimbabwe",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
-        "to": "to"
+        "Zimbabwe": "Zimbabwe"
     }
 }

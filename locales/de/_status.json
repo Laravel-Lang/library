@@ -25,7 +25,6 @@
         "Botswana": "Botswana",
         "Burkina Faso": "Burkina Faso",
         "Burundi": "Burundi",
-        "CSV (.csv)": "CSV (.csv)",
         "Change password": "Change password",
         "Chile": "Chile",
         "China": "China",
@@ -35,6 +34,7 @@
         "Copied!": "Copied!",
         "Costa Rica": "Costa Rica",
         "Created At": "Created At",
+        "CSV (.csv)": "CSV (.csv)",
         "Curaçao": "Curaçao",
         "Dashboard": "Dashboard",
         "Deleted": "Deleted",
@@ -99,6 +99,7 @@
         "More": "More",
         "Myanmar": "Myanmar",
         "Name": "Name",
+        "name": "name",
         "Namibia": "Namibia",
         "Nauru": "Nauru",
         "Nepal": "Nepal",
@@ -162,7 +163,6 @@
         "Uruguay": "Uruguay",
         "Vanuatu": "Vanuatu",
         "Venezuela": "Venezuela",
-        "Welcome to :moonshine_title!": "Welcome to :moonshine_title!",
-        "name": "name"
+        "Welcome to :moonshine_title!": "Welcome to :moonshine_title!"
     }
 }

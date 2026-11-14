@@ -2,6 +2,7 @@
     "default": {
         "All rights reserved.": "All rights reserved.",
         "CSV (.csv)": "CSV (.csv)",
+        "ex VAT": "ex VAT",
         "Excel (.xlsx)": "Excel (.xlsx)",
         "From": "From",
         "ID": "ID",
@@ -19,7 +20,6 @@
         "Unable to register this passkey.": "Unable to register this passkey.",
         "Unable to sign in with this account.": "Unable to sign in with this account.",
         "Unable to verify passkey. Please try again.": "Unable to verify passkey. Please try again.",
-        "Unable to write the encrypted environment file.": "Unable to write the encrypted environment file.",
-        "ex VAT": "ex VAT"
+        "Unable to write the encrypted environment file.": "Unable to write the encrypted environment file."
     }
 }

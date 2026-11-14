@@ -17,15 +17,16 @@
         "Aruba": "Aruba",
         "Authenticating...": "Authenticating...",
         "Avatar": "Avatar",
-        "CSV (.csv)": "CSV (.csv)",
         "Cancel invitation": "Cancel invitation",
         "Confirm with passkey": "Confirm with passkey",
         "Confirming...": "Confirming...",
         "Create a new team": "Create a new team",
         "Create team": "Create team",
+        "CSV (.csv)": "CSV (.csv)",
         "Curaçao": "Curaçao",
         "Decline": "Decline",
         "Delete team": "Delete team",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Edit :name": "Edit :name",
         "Edit team": "Edit team",
         "Excel (.xlsx)": "Excel (.xlsx)",
@@ -116,7 +117,6 @@
         "Warning": "Warning",
         "You don't belong to any teams yet.": "You don't belong to any teams yet.",
         "You left the team \":name\"": "You left the team \":name\"",
-        "You've been invited to join :teamName": "You've been invited to join :teamName",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone"
+        "You've been invited to join :teamName": "You've been invited to join :teamName"
     }
 }

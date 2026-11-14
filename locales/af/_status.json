@@ -3,7 +3,6 @@
         ":action to join the \":team\" team.": ":action to join the \":team\" team.",
         ":inviter invited you to join this team.": ":inviter invited you to join this team.",
         ":inviterName has invited you to join the :teamName team.": ":inviterName has invited you to join the :teamName team.",
-        "API Token": "API Token",
         "Accept": "Accept",
         "Accept or decline the teams you have been invited to join.": "Accept or decline the teams you have been invited to join.",
         "Add a passkey to sign in without a password": "Add a passkey to sign in without a password",
@@ -13,6 +12,7 @@
         "An invitation has already been sent to this email address.": "An invitation has already been sent to this email address.",
         "Angola": "Angola",
         "Anguilla": "Anguilla",
+        "API Token": "API Token",
         "April": "April",
         "Are you sure you want to cancel the invitation for :email?": "Are you sure you want to cancel the invitation for :email?",
         "Are you sure you want to leave :name?": "Are you sure you want to leave :name?",
@@ -33,7 +33,6 @@
         "Bouvet Island": "Bouvet Island",
         "Burkina Faso": "Burkina Faso",
         "Burundi": "Burundi",
-        "CSV (.csv)": "CSV (.csv)",
         "Cancel invitation": "Cancel invitation",
         "Chad": "Chad",
         "China": "China",
@@ -44,9 +43,11 @@
         "Costa Rica": "Costa Rica",
         "Create a new team": "Create a new team",
         "Create team": "Create team",
+        "CSV (.csv)": "CSV (.csv)",
         "Côte d'Ivoire": "Côte d'Ivoire",
         "Decline": "Decline",
         "Delete team": "Delete team",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Ecuador": "Ecuador",
         "Edit :name": "Edit :name",
         "Edit team": "Edit team",
@@ -160,6 +161,7 @@
         "Sierra Leone": "Sierra Leone",
         "Sign in with a passkey": "Sign in with a passkey",
         "Sri Lanka": "Sri Lanka",
+        "status": "status",
         "Suriname": "Suriname",
         "Tajikistan": "Tajikistan",
         "Team created.": "Team created.",
@@ -203,8 +205,6 @@
         "You don't belong to any teams yet.": "You don't belong to any teams yet.",
         "You left the team \":name\"": "You left the team \":name\"",
         "You've been invited to join :teamName": "You've been invited to join :teamName",
-        "Zimbabwe": "Zimbabwe",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
-        "status": "status"
+        "Zimbabwe": "Zimbabwe"
     }
 }

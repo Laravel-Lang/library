@@ -39,7 +39,6 @@
         "Bouvet Island": "Bouvet Island",
         "Burkina Faso": "Burkina Faso",
         "Burundi": "Burundi",
-        "CSV (.csv)": "CSV (.csv)",
         "Cambodia": "Cambodia",
         "Canada": "Canada",
         "Cancel invitation": "Cancel invitation",
@@ -55,6 +54,7 @@
         "Create a new team": "Create a new team",
         "Create team": "Create team",
         "Croatia": "Croatia",
+        "CSV (.csv)": "CSV (.csv)",
         "Cuba": "Cuba",
         "Cyprus": "Cyprus",
         "Côte d'Ivoire": "Côte d'Ivoire",
@@ -62,6 +62,7 @@
         "Delete team": "Delete team",
         "Djibouti": "Djibouti",
         "Download": "Download",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Ecuador": "Ecuador",
         "Edit :name": "Edit :name",
         "Edit team": "Edit team",
@@ -244,7 +245,6 @@
         "You left the team \":name\"": "You left the team \":name\"",
         "You've been invited to join :teamName": "You've been invited to join :teamName",
         "Zambia": "Zambia",
-        "Zimbabwe": "Zimbabwe",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone"
+        "Zimbabwe": "Zimbabwe"
     }
 }

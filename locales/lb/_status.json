@@ -33,7 +33,6 @@
         "Brunei Darussalam": "Brunei Darussalam",
         "Burkina Faso": "Burkina Faso",
         "Burundi": "Burundi",
-        "CSV (.csv)": "CSV (.csv)",
         "Cancel invitation": "Cancel invitation",
         "Chile": "Chile",
         "China": "China",
@@ -44,12 +43,14 @@
         "Coupon": "Coupon",
         "Create a new team": "Create a new team",
         "Create team": "Create team",
+        "CSV (.csv)": "CSV (.csv)",
         "Curaçao": "Curaçao",
         "Dashboard": "Dashboard",
         "Decline": "Decline",
         "Delete team": "Delete team",
         "Djibouti": "Djibouti",
         "Dominica": "Dominica",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Ecuador": "Ecuador",
         "Edit :name": "Edit :name",
         "Edit team": "Edit team",
@@ -91,8 +92,8 @@
         "Lesotho": "Lesotho",
         "Liberia": "Liberia",
         "Liechtenstein": "Liechtenstein",
-        "Log Viewer": "Log Viewer",
         "Log in and visit your dashboard to accept or decline this invitation.": "Log in and visit your dashboard to accept or decline this invitation.",
+        "Log Viewer": "Log Viewer",
         "Malawi": "Malawi",
         "Mali": "Mali",
         "Malta": "Malta",
@@ -210,7 +211,6 @@
         "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
         "You've been invited to join :teamName": "You've been invited to join :teamName",
         "Zambia": "Zambia",
-        "Zimbabwe": "Zimbabwe",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone"
+        "Zimbabwe": "Zimbabwe"
     }
 }

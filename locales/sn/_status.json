@@ -38,6 +38,7 @@
         "Delete account": "Delete account",
         "Delete team": "Delete team",
         "E-mail": "E-mail",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate codes above.": "Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate codes above.",
         "Edit :name": "Edit :name",
         "Edit team": "Edit team",
@@ -186,7 +187,6 @@
         "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
         "You've been invited to join :teamName": "You've been invited to join :teamName",
         "Zambia": "Zambia",
-        "Zimbabwe": "Zimbabwe",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone"
+        "Zimbabwe": "Zimbabwe"
     }
 }

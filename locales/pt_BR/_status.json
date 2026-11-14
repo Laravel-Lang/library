@@ -15,12 +15,12 @@
         "Barbados": "Barbados",
         "Belize": "Belize",
         "Burundi": "Burundi",
-        "CSV (.csv)": "CSV (.csv)",
         "Chile": "Chile",
         "China": "China",
         "Clear all": "Clear all",
         "Congo": "Congo",
         "Costa Rica": "Costa Rica",
+        "CSV (.csv)": "CSV (.csv)",
         "Cuba": "Cuba",
         "Curaçao": "Curaçao",
         "Decline": "Decline",
@@ -90,6 +90,7 @@
         "Togo": "Togo",
         "Tonga": "Tonga",
         "Total": "Total",
+        "total": "total",
         "Total:": "Total:",
         "Tuvalu": "Tuvalu",
         "Uganda": "Uganda",
@@ -100,7 +101,6 @@
         "Unable to write the encrypted environment file.": "Unable to write the encrypted environment file.",
         "Vanuatu": "Vanuatu",
         "Venezuela": "Venezuela",
-        "You left the team \":name\"": "You left the team \":name\"",
-        "total": "total"
+        "You left the team \":name\"": "You left the team \":name\""
     }
 }

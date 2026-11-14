@@ -31,6 +31,7 @@
         "Delete team": "Delete team",
         "Djibouti": "Djibouti",
         "Dominica": "Dominica",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate codes above.": "Each recovery code can be used once to access your account and will be removed after use. If you need more, click Regenerate codes above.",
         "Edit :name": "Edit :name",
         "Edit team": "Edit team",
@@ -135,7 +136,6 @@
         "You don't belong to any teams yet.": "You don't belong to any teams yet.",
         "You left the team \":name\"": "You left the team \":name\"",
         "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.": "You will be prompted for a secure, random pin during login, which you can retrieve from the TOTP-supported application on your phone.",
-        "You've been invited to join :teamName": "You've been invited to join :teamName",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone"
+        "You've been invited to join :teamName": "You've been invited to join :teamName"
     }
 }

@@ -14,7 +14,6 @@
         "Authenticating...": "Authenticating...",
         "Authorization": "Authorization",
         "Avatar": "Avatar",
-        "CSV (.csv)": "CSV (.csv)",
         "Change password": "Change password",
         "Clear all": "Clear all",
         "Collapse menu": "Collapse menu",
@@ -22,10 +21,12 @@
         "Confirming...": "Confirming...",
         "Copied!": "Copied!",
         "Created At": "Created At",
+        "CSV (.csv)": "CSV (.csv)",
         "Decline": "Decline",
         "Deleted": "Deleted",
         "Deleting": "Deleting",
         "E-mail": "E-mail",
+        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone",
         "Export": "Export",
         "File exported": "File exported",
         "File extension not supported": "File extension not supported",
@@ -91,7 +92,6 @@
         "Unable to verify passkey. Please try again.": "Unable to verify passkey. Please try again.",
         "Unable to write the encrypted environment file.": "Unable to write the encrypted environment file.",
         "Welcome to :moonshine_title!": "Welcome to :moonshine_title!",
-        "You left the team \":name\"": "You left the team \":name\"",
-        "e.g., MacBook Pro, iPhone": "e.g., MacBook Pro, iPhone"
+        "You left the team \":name\"": "You left the team \":name\""
     }
 }
