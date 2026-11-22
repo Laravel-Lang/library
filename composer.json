@@ -4,11 +4,8 @@
     "license": "MIT",
     "type": "library",
     "keywords": [
-        "lang",
-        "languages",
-        "laravel",
         "laravel-lang",
-        "locale",
+        "i18n",
         "locales",
         "localization",
         "translation",
@@ -17,8 +14,7 @@
     "authors": [
         {
             "name": "Andrey Helldar",
-            "email": "helldar@dragon-code.pro",
-            "homepage": "https://dragon-code.pro"
+            "email": "helldar@dragon-code.pro"
         },
         {
             "name": "Laravel-Lang Team",
