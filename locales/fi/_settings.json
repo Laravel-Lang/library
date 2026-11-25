@@ -1,5 +1,6 @@
 {
     "excludes": [
+        "OK",
         "Albania",
         "Algeria",
         "Andorra",
@@ -20,9 +21,9 @@
         "Bulgaria",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Chile",
         "Costa Rica",
+        "CSV (.csv)",
         "Curaçao",
         "Djibouti",
         "Dominica",
@@ -80,7 +81,6 @@
         "Nigeria",
         "Niue",
         "Nova",
-        "OK",
         "Oman",
         "Pakistan",
         "Palau",

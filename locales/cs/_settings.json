@@ -1,5 +1,6 @@
 {
     "excludes": [
+        "OK",
         "Andorra",
         "Angola",
         "Anguilla",
@@ -11,8 +12,8 @@
         "Botswana",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Chile",
+        "CSV (.csv)",
         "Editor",
         "Egypt",
         "Eritrea",
@@ -41,7 +42,6 @@
         "Niger",
         "Niue",
         "Nova",
-        "OK",
         "Palau",
         "Panama",
         "Paraguay",
@@ -61,8 +61,6 @@
         "Vanuatu",
         "Venezuela",
         "Zimbabwe",
-        "role",
-        "student",
-        "text"
+        "Role"
     ]
 }

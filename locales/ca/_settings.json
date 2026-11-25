@@ -14,10 +14,10 @@
         "Botswana",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Congo",
         "Constant",
         "Costa Rica",
+        "CSV (.csv)",
         "Cuba",
         "Djibouti",
         "Dominica",
@@ -25,6 +25,7 @@
         "El Salvador",
         "Eritrea",
         "Error",
+        "errors",
         "Excel (.xlsx)",
         "Fiji",
         "Gabon",
@@ -83,14 +84,13 @@
         "Togo",
         "Tokelau",
         "Tonga",
+        "total",
         "Total:",
         "Turkmenistan",
         "Tuvalu",
         "Uganda",
         "Uzbekistan",
         "Vanuatu",
-        "Zimbabwe",
-        "errors",
-        "total"
+        "Zimbabwe"
     ]
 }

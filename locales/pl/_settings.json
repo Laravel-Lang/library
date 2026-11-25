@@ -1,5 +1,6 @@
 {
     "excludes": [
+        "OK",
         "Administrator",
         "Albania",
         "Angola",
@@ -15,11 +16,11 @@
         "Botswana",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Chile",
+        "CSV (.csv)",
         "Curaçao",
-        "E-mail",
         "Email",
+        "email",
         "Estonia",
         "Excel (.xlsx)",
         "Gabon",
@@ -67,7 +68,6 @@
         "Sri Lanka",
         "Sudan",
         "System",
-        "Tag",
         "Tanzania",
         "Togo",
         "Tokelau",
@@ -79,9 +79,10 @@
         "Vanuatu",
         "Zambia",
         "Zimbabwe",
-        "email",
-        "portfolio",
+        "E-mail",
+        "System",
+        "Email",
         "status",
-        "tag"
+        "System"
     ]
 }

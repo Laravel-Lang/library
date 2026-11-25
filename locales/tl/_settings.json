@@ -1,5 +1,6 @@
 {
     "excludes": [
+        "OK",
         "Albania",
         "Algeria",
         "Angola",
@@ -18,9 +19,9 @@
         "Botswana",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Cameroon",
         "Chad",
+        "CSV (.csv)",
         "Côte d'Ivoire",
         "Eritrea",
         "Ethiopia",
@@ -67,7 +68,6 @@
         "Niger",
         "Norway",
         "Nova",
-        "OK",
         "Oman",
         "Pakistan",
         "Palau",

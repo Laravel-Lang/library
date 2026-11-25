@@ -1,5 +1,6 @@
 {
     "excludes": [
+        "OK",
         "CSV (.csv)",
         "Côte d'Ivoire",
         "Excel (.xlsx)",
@@ -10,7 +11,6 @@
         "Macedonia, the former Yugoslav Republic of",
         "Micronesia, Federated States of",
         "Nova",
-        "OK",
         "Saint Barthélemy",
         "Saint Kitts and Nevis",
         "Saint Martin (French part)",

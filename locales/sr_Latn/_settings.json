@@ -1,9 +1,9 @@
 {
     "excludes": [
+        "OK",
         "CSV (.csv)",
         "Excel (.xlsx)",
         "ID",
-        "Nova",
-        "OK"
+        "Nova"
     ]
 }

@@ -13,18 +13,19 @@
         "Brunei Darussalam",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Canada",
         "Code",
         "Congo",
         "Costa Rica",
         "Coupon",
+        "CSV (.csv)",
         "Cuba",
         "Curaçao",
         "Côte d'Ivoire",
         "Djibouti",
         "El Salvador",
         "Email",
+        "email",
         "Excel (.xlsx)",
         "France",
         "Gabon",
@@ -99,6 +100,7 @@
         "Togo",
         "Tokelau",
         "Tonga",
+        "total",
         "Total:",
         "Trinidad and Tobago",
         "Tuvalu",
@@ -113,8 +115,6 @@
         "Whoops!",
         "Whoops! Something went wrong.",
         "Zambia",
-        "Zimbabwe",
-        "email",
-        "total"
+        "Zimbabwe"
     ]
 }

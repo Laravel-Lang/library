@@ -1,5 +1,6 @@
 {
     "excludes": [
+        "OK",
         ":resource Details",
         ":resource Details: :title",
         "Administrator",
@@ -21,11 +22,11 @@
         "Botswana",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Chile",
         "China",
         "Code",
         "Costa Rica",
+        "CSV (.csv)",
         "Curaçao",
         "Dashboard",
         "Details",
@@ -74,6 +75,7 @@
         "Montserrat",
         "Myanmar",
         "Name",
+        "name",
         "Namibia",
         "Nauru",
         "Nepal",
@@ -89,11 +91,9 @@
         "Palau",
         "Panama",
         "Paraguay",
-        "Passkeys",
         "Peru",
         "Portugal",
         "Puerto Rico",
-        "Repository",
         "Réunion",
         "Saint Helena",
         "Saint Lucia",
@@ -111,7 +111,6 @@
         "Suriname",
         "System",
         "Taiwan",
-        "Teams",
         "Thailand",
         "Togo",
         "Tokelau",
@@ -123,6 +122,11 @@
         "Uruguay",
         "Vanuatu",
         "Venezuela",
-        "name"
+        "Dashboard",
+        "Name",
+        "Passkeys",
+        "Repository",
+        "System",
+        "Teams"
     ]
 }

@@ -1,9 +1,9 @@
 {
     "excludes": [
-        "API Token",
         "Administrator",
         "American Samoa",
         "Angola",
+        "API Token",
         "April",
         "Argentina",
         "Aruba",
@@ -15,10 +15,11 @@
         "Brazil",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Cayman Islands",
+        "CSV (.csv)",
         "Djibouti",
         "Email",
+        "email",
         "Eritrea",
         "Excel (.xlsx)",
         "Fiji",
@@ -67,6 +68,6 @@
         "Suriname",
         "Tokelau",
         "Vanuatu",
-        "email"
+        "Email"
     ]
 }

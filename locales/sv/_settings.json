@@ -1,5 +1,6 @@
 {
     "excludes": [
+        "OK",
         "Action Events",
         "Afghanistan",
         "Algeria",
@@ -35,7 +36,6 @@
         "Bulgaria",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Cambodia",
         "Cameroon",
         "Canada",
@@ -53,6 +53,7 @@
         "Congo, the Democratic Republic of the",
         "Cook Islands",
         "Costa Rica",
+        "CSV (.csv)",
         "Cuba",
         "Curaçao",
         "Cyprus",
@@ -226,6 +227,7 @@
         "Togo",
         "Tokelau",
         "Tonga",
+        "total",
         "Total:",
         "Trinidad and Tobago",
         "Tunisia",
@@ -252,7 +254,6 @@
         "Yemen",
         "Zambia",
         "Zimbabwe",
-        "total",
         "Åland Islands"
     ]
 }
