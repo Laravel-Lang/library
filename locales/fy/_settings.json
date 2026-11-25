@@ -1,8 +1,8 @@
 {
     "excludes": [
-        "API Tokens",
         "Andorra",
         "Anguilla",
+        "API Tokens",
         "Barbados",
         "Belize",
         "Bermuda",

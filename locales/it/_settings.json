@@ -1,5 +1,6 @@
 {
     "excludes": [
+        "OK",
         "Afghanistan",
         "Albania",
         "Algeria",
@@ -23,13 +24,13 @@
         "Bulgaria",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Canada",
         "Chad",
         "Colombia",
         "Congo",
         "Costa Rica",
         "Coupon",
+        "CSV (.csv)",
         "Cuba",
         "Dashboard",
         "Dominica",
@@ -37,6 +38,7 @@
         "Editor",
         "El Salvador",
         "Email",
+        "email",
         "Eritrea",
         "Estonia",
         "Excel (.xlsx)",
@@ -98,6 +100,7 @@
         "Panama",
         "Paraguay",
         "Password",
+        "password",
         "Qatar",
         "Romania",
         "Réunion",
@@ -131,7 +134,8 @@
         "Yemen",
         "Zambia",
         "Zimbabwe",
-        "email",
-        "password"
+        "Dashboard",
+        "Email",
+        "Password"
     ]
 }

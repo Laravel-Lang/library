@@ -1,5 +1,6 @@
 {
     "excludes": [
+        "OK",
         "Botswana",
         "Burkina Faso",
         "Burundi",
@@ -11,6 +12,7 @@
         "Ecuador",
         "El Salvador",
         "Email",
+        "email",
         "Excel (.xlsx)",
         "Gabon",
         "Gibraltar",
@@ -52,6 +54,7 @@
         "OK",
         "Palau",
         "Password",
+        "password",
         "Puerto Rico",
         "Qatar",
         "Réunion",
@@ -109,8 +112,6 @@
         "Yemen",
         "Zambia",
         "Zimbabwe",
-        "email",
-        "password",
         "Åland Islands"
     ]
 }

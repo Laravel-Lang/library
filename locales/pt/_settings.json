@@ -1,9 +1,10 @@
 {
     "excludes": [
-        "API Token",
-        "API Tokens",
+        "OK",
         "Andorra",
         "Angola",
+        "API Token",
+        "API Tokens",
         "Argentina",
         "Aruba",
         "Australia",
@@ -14,11 +15,11 @@
         "Bermuda",
         "Bulgaria",
         "Burundi",
-        "CSV (.csv)",
         "Canada",
         "Chile",
         "China",
         "Costa Rica",
+        "CSV (.csv)",
         "Cuba",
         "Curaçao",
         "Editor",
@@ -62,11 +63,11 @@
         "Timor-Leste",
         "Togo",
         "Tokelau",
+        "total",
         "Total:",
         "Tuvalu",
         "Uganda",
         "Vanuatu",
-        "Venezuela",
-        "total"
+        "Venezuela"
     ]
 }

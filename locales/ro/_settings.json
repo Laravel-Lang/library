@@ -25,12 +25,12 @@
         "Bulgaria",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Canada",
         "Chile",
         "China",
         "Congo",
         "Costa Rica",
+        "CSV (.csv)",
         "Cuba",
         "Côte d'Ivoire",
         "Delete Notification",
@@ -61,6 +61,7 @@
         "Kenya",
         "Kiribati",
         "Kosovo",
+        "length",
         "Lesotho",
         "Liberia",
         "Liechtenstein",
@@ -110,6 +111,7 @@
         "Tanzania",
         "The selected resources have been :action!",
         "Tokelau",
+        "total",
         "Total:",
         "Tunisia",
         "Turkmenistan",
@@ -121,8 +123,6 @@
         "Vanuatu",
         "Venezuela",
         "Zambia",
-        "Zimbabwe",
-        "length",
-        "total"
+        "Zimbabwe"
     ]
 }

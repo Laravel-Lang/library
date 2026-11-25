@@ -1,6 +1,6 @@
 {
     "excludes": [
-        "Admin",
+        "OK",
         "Administrator",
         "Afghanistan",
         "Albania",
@@ -26,10 +26,10 @@
         "Bulgaria",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Chile",
         "Colombia",
         "Costa Rica",
+        "CSV (.csv)",
         "Cuba",
         "Curaçao",
         "Djibouti",
@@ -100,7 +100,6 @@
         "Niue",
         "Nova",
         "November",
-        "OK",
         "Oman",
         "Original",
         "Pakistan",
@@ -127,7 +126,6 @@
         "Slovenia",
         "Somalia",
         "Sri Lanka",
-        "Start",
         "Sudan",
         "Syrian Arab Republic",
         "System",
@@ -137,6 +135,7 @@
         "Togo",
         "Tokelau",
         "Tonga",
+        "total",
         "Total:",
         "Tunisia",
         "Turkmenistan",
@@ -148,10 +147,6 @@
         "Venezuela",
         "Zambia",
         "Zimbabwe",
-        "filter",
-        "status",
-        "student",
-        "total",
-        "type"
+        "System"
     ]
 }

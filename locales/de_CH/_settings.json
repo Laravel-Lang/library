@@ -1,5 +1,6 @@
 {
     "excludes": [
+        "OK",
         ":resource Details",
         ":resource Details: :title",
         "Administrator",
@@ -21,11 +22,11 @@
         "Botswana",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Chile",
         "China",
         "Code",
         "Costa Rica",
+        "CSV (.csv)",
         "Curaçao",
         "Dashboard",
         "Details",
@@ -74,6 +75,7 @@
         "Montserrat",
         "Myanmar",
         "Name",
+        "name",
         "Namibia",
         "Nauru",
         "Nepal",
@@ -120,6 +122,8 @@
         "Uruguay",
         "Vanuatu",
         "Venezuela",
-        "name"
+        "Dashboard",
+        "Name",
+        "System"
     ]
 }

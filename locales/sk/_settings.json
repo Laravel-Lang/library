@@ -1,9 +1,10 @@
 {
     "excludes": [
-        "API Token",
+        "OK",
         "Andorra",
         "Angola",
         "Anguilla",
+        "API Token",
         "Aruba",
         "August",
         "Barbados",
@@ -17,6 +18,7 @@
         "December",
         "Egypt",
         "Email",
+        "email",
         "Eritrea",
         "Excel (.xlsx)",
         "Ghana",
@@ -45,7 +47,6 @@
         "Niue",
         "Nova",
         "November",
-        "OK",
         "Pakistan",
         "Palau",
         "Panama",
@@ -68,6 +69,6 @@
         "Venezuela",
         "Zambia",
         "Zimbabwe",
-        "email"
+        "Email"
     ]
 }

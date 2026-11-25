@@ -1,8 +1,8 @@
 {
     "excludes": [
-        "API Token",
         "Administrator",
         "Angola",
+        "API Token",
         "Argentina",
         "Aruba",
         "Barbados",
@@ -12,8 +12,8 @@
         "Brazil",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Cape Verde",
+        "CSV (.csv)",
         "Curaçao",
         "Excel (.xlsx)",
         "Gabon",

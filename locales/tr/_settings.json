@@ -4,15 +4,14 @@
         "Angola",
         "Anguilla",
         "Aruba",
-        "Avatar",
         "Barbados",
         "Belize",
         "Benin",
         "Bermuda",
         "Burkina Faso",
         "Burundi",
-        "CSV (.csv)",
         "Cape Verde",
+        "CSV (.csv)",
         "Curaçao",
         "El Salvador",
         "Excel (.xlsx)",
@@ -50,7 +49,6 @@
         "Panama",
         "Paraguay",
         "Peru",
-        "Platform",
         "Réunion",
         "Saint Barthélemy",
         "Saint Helena",
@@ -71,6 +69,8 @@
         "Uruguay",
         "Vanuatu",
         "Venezuela",
-        "Yemen"
+        "Yemen",
+        "Avatar",
+        "Platform"
     ]
 }
